@@ -29,7 +29,7 @@ footer {
 
 /* Cabeçalho */
 header {
-    background-color: var(--cinza_escuro);
+    background-color: var(--cinza_bbb);
     color: white;
     padding: 15px 0;
     text-align: center;
